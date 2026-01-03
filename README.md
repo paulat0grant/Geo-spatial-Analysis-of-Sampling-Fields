@@ -4,7 +4,7 @@
 
 This repository contains Python and R scripts developed for the research paper:
 
-**Hydrological Controls on Soil Chemical Variability: Geo-Spatial Profiling of Semi-Arid Agricultural Soil Dataset from Maharashtra**
+**Will be available upon proper request**
 
 The codes support geospatial processing, visualization of topographic and hydrological features, and statistical analysis of soil chemical properties. The repository is intended to provide transparency and reproducibility for journal reviewers and other researchers.
 
