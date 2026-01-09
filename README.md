@@ -12,7 +12,7 @@ The codes support geospatial processing, visualization of topographic and hydrol
 
 ## Author & Affiliation
 
-**Author:** Anup Paul **
+**Author:** Anup Paul
 **Affiliation:** HMR Institute of Technology and Management, Affiliated to Guru Gobind Singh Indraprastha University (GGSIPU), Delhi, India
 
 ---
